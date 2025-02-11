@@ -2,8 +2,9 @@
 
 I'm Henry, a Software Engineer at Amazon.
 
-I work on [Buy with Prime](https://buywithprime.amazon.com/). It allows you to 
-sell your Prime products through your own website.
+I work on [Buy with Prime](https://buywithprime.amazon.com/).
+It allows you to sell your Prime products through your own website as if they
+were listed and fulfilled by amazon.com.
 
 When I get free time, you can find me:
 
